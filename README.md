@@ -19,5 +19,20 @@ Para solucionar o problema dos cabos vindo da fonte externa, será feito um disp
 
 ### Diagrama de blocos
 
-![Imagem 03 - Diagrama de blocos](./Images/diagrama de blocos.png)
+![Imagem 03 - Diagrama de blocos](./Images/diagrama_de_blocos.png)
 
+
+
+## Referências
+
+[1] Fuente, María J. de la. Fault detection and isolation: An Overview. Escuela de Ingenierías Industriales. Universidade de Valladolid
+
+[2] Kim, Min-Sub et al. A novel fault detection circuit for short-circuit faults of IGBT
+
+[3] Alvarez, Gustavo P.  Real-Time Fault Detection and Diagnosis Using Intelligent Monitoring and Supervision Systems. IntechOpen
+
+[4] http://repository.psa.edu.my/bitstream/123456789/2128/1/MOBILE%20CONTINUITY%20TESTER.pdf
+
+[5] https://www.nutsvolts.com/magazine/article/build-a-continuity-tester
+
+[6] https://hackaday.com/2020/07/13/build-an-everlasting-continuity-tester/
